@@ -1,29 +1,34 @@
-# CyclisticBikeRentalProject
-Portfolio project in R
+# Cyclistic Case Study
+Google Data Analyst capstone project
 
 ![](images/bikeshare_img.JPG)
 
-## Background
-Cyclistic is a bike-share company based in Chicago that in 2016, launched a successful bike-sharing program. Since then, the program has expanded significantly to a fleet of 5,824 bicycles and a network of 692 geotracked stations sprawled across the city. Bikes can be conveniently rented from one station and return to any other station within the network.
+Refer to jupyter notebook for details on data cleaning and visualizations
+## The Business
+Cyclistic, a Chicago-based bike-share company, launched a successful program in 2016. Since then, the program expended its fleet of 5,824 bikes and 692 geotracked stations across the city, allowing flexible rental and return options.<br>
+Cyclistic's marketing strategy had focused on broad consumer awareness and offers flexible pricing plans, including single-ride passes, full-day passes, and annual memberships.
 
-Cyclistic's marketing strategy so far focused on building general awareness and appealing to broad consumer segments. One of such strategies is to offer flexibile pricing plans like single-ride passes, full-day passes, and annual memberships.\
-**Casual members** 
-Customers who purchased single rides or full-day passes are referred to as casual members\
-**Cyclistic members** 
-Customers who purchased annual memberships
+## The Task
+The company's marketing director believes that the company's future success depends on maximizing the number of annual memberships.<br>
+The data analyst team is tasked to understand how casual rides and annual members use Cyclist differently. Using these insights to then design a new marketing strategy to convert casual rides into annual members
 
-The company's marketing director believes that the company’s future success depends on maximizing the number of annual memberships
+## Analyze
 
-The data analyst team is tasked to understand how casual rides and annual members use Cyclist differently. 
-Using these insights to then design a new marketing strategy to convert casual rides into annual members
 
-## Key Stakeholders
-**Lily Moreno: The director of marketing and your manager.** Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels
-**Company executives** : Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
-
-## Data
-The data includes ride details of all the rides done on the bikes of the company from 2019 Q1 to 2020 Q1. No personal or customer data was shared. 
-Motivate International Inc. provides the data with the following licence: https://www.divvybikes.com/data-license-agreement. We can only classify the rides
-
-## Scenario 
-As a junior data analyst working in the marketing analyst team at Cyclistic, the team is tasked to find out how annual members and casual riders use cyclistic bike differently. What are the influencing factors for casual riders to sign up for annual subscription. How can Cyclistic reach out to these casual riders to convince them to sign up for annual membership.
+## Insights
+### **Observations:**<br> 
+*    Members and casual riders have different usage patterns
+*    Members account for most rides
+*    Members make consistent short rides throughout the week, likely commuting to work
+*    On weekends, member rides increase slightly in number and length but remain shorter than casual users' rides
+*    Rides increase during warmer months from May to September
+*    There is a preference for classic bikes over electric bikes
+### **Recommendations:**
+*    Focus on acquiring new customers for memberships rather than converting casual riders
+*    Offer limited-time discounts for annual sign-ups from May to September
+*    Offer discounted rates during morning and evening commutes to entice sign-ups
+*    Maintain and support the existing membership base by introducing loyalty program where points can be redeemed for free ride minutes
+*    Offer discounts on pre-paid cheaper ride credits and significant discounts for multi-year memberships
+*    Proximity of bike stations to starting points and destinations influences membership signups.
+*    Advertise around train and bus stops near bike stations to raise awareness
+*    Implement referral codes providing discounts to both referrers and new members
