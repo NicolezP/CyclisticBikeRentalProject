@@ -1,10 +1,9 @@
 # Cyclistic Case Study
 Google Data Analyst capstone project
-
-![](images/bikeshare_img.JPG)
-
 Refer to jupyter notebook for details on data cleaning and visualizations
+
 ## The Business
+![](Images/Cyclistic%20logo.JPG)<br>
 Cyclistic, a Chicago-based bike-share company, launched a successful program in 2016. Since then, the program expended its fleet of 5,824 bikes and 692 geotracked stations across the city, allowing flexible rental and return options.<br>
 Cyclistic's marketing strategy had focused on broad consumer awareness and offers flexible pricing plans, including single-ride passes, full-day passes, and annual memberships.
 
