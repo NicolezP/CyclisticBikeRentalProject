@@ -3,7 +3,6 @@ Google Data Analyst capstone project
 Refer to jupyter notebook for details on data cleaning and visualizations
 
 ## The Business
-![](Images/Cyclistic%20logo.JPG)<br>
 Cyclistic, a Chicago-based bike-share company, launched a successful program in 2016. Since then, the program expended its fleet of 5,824 bikes and 692 geotracked stations across the city, allowing flexible rental and return options.<br>
 Cyclistic's marketing strategy had focused on broad consumer awareness and offers flexible pricing plans, including single-ride passes, full-day passes, and annual memberships.
 
@@ -12,7 +11,17 @@ The company's marketing director believes that the company's future success depe
 The data analyst team is tasked to understand how casual rides and annual members use Cyclist differently. Using these insights to then design a new marketing strategy to convert casual rides into annual members
 
 ## Analyze
-
+![](Images/Members_Casuals_Pie.png)<br>
+**Overall make up of the rides for year 2022**<br>
+Cyclistic members recorded 2,560,294 rides, while casual riders took 1,730,253 trips <br><br><br>
+![](Images/Bike%20Preference.png)<br>
+**Types of bikes used**<br>
+Members have a higher preference for classic bikes over electric bikes<br><br><br>
+![](Images/Avg_trip_length.PNG)<br>
+Casuals use the bike longer than members on average<br>
+Members use the bike quite consistently on average 12 mins on the weekdays and 14 mins on the weekends<br>
+Casuals use the bike slightly longer on weekends on average 26 mins<br><br><br>
+![](Images/Counts%20Over%20Months.png)<br>
 
 ## Insights
 ### **Observations:**<br> 
